@@ -1,5 +1,4 @@
 # boolean(true & false)
-
 a = 'hello'
 if a:
     print(a)

@@ -11,7 +11,7 @@ dic['univ'] = "INU"
 
 print(dic)
 print(dic['name'])
-print(dic['place'])
+print(dic['place']) 
 
 # function
 print(dic.keys())
